@@ -1,5 +1,8 @@
 # QueryCorner
 
+## Deployed Website
+You can visit the deployed website at [QueryCorner](https://query-corner-one.vercel.app/).
+
 ## Inspiration
 The inspiration for our project, QueryCorner, comes from our experience as students and software developers getting low-quality answers from ChatGPT. Typing out a detailed prompt can be hard and annoying but is often necessary for complex questions or questions requiring a lot of context. We saw an opportunity to create a tool that would empower people to accelerate their research and workflow.
 
